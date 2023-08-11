@@ -22,3 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tempestreo&show_icons=true&locale=en" alt="tempestreo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tempestreo&" alt="tempestreo" /></p>
+
+
+![snake gif](https://github.com/Tempestreo/Tempestreo/blob/output/github-contribution-grid-snake.gif)
