@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samet Kaya</h1>
+<h1 align="center">Hi 👋, I'm Samet</h1>
 <h3 align="center">A passionate Unity Developer from Türkiye</h3>
 
 - 🔭 I’m currently working on [CrystalProtection](https://github.com/Tempestreo/CrystalProtection)
