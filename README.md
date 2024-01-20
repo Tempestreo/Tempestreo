@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CrystalProtection](https://github.com/Tempestreo/CrystalProtection)
 
-- 🌱 I’m currently learning **Visual Effects**
+- 🌱 I’m currently learning **Blender**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tempestreo](https://github.com/Tempestreo)
 
