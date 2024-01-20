@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Unity VR/XR**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/Tempestreo](https://github.com/Tempestreo)](https://github.com/Tempestreo?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Tempestreo?tab=repositories]
 
 - 📫 How to reach me **olurkom_0@hotmail.com**
 
